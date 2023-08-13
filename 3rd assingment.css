@@ -1,0 +1,54 @@
+/*1st div*/
+.assn{
+    width: 100px;
+    height: 100px;
+    border-color: blue;
+    border: dashed;
+    background-color: yellow;
+    color: #2468EC;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
+}
+body{
+    background-color: red;
+}
+
+/*2nd div*/
+.di{
+    width: 200px;
+    height: 200px;
+    border: dashed;
+    border-color: gold;
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/*3rd div*/
+.iv{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(21,91,58);
+    border-radius: 30px;
+    border: dashed;
+    border-color: aqua;
+}
+
+/*4th div*/
+.dv{
+    height: 300px;
+    width: 300px;
+    border: dashed;
+    border-color: chartreuse;
+    background-color: seagreen;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: bottom;
+}
